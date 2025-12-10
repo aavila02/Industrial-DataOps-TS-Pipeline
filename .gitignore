@@ -1,0 +1,12 @@
+# Python files
+__pycache__/
+*.pyc
+.env
+
+# Data files (keep the large CSV out of the repo)
+*.csv
+*.parquet
+
+# IDE files
+.vscode/
+.idea/
